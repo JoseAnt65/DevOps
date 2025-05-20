@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/test/java/fr/takima/training/sampleapplication/IT/DepartmentControllerTestIT.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/test/java/fr/takima/training/sampleapplication/IT/StudentControllerTestIT.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/test/java/fr/takima/training/sampleapplication/unit/DepartmentsServiceTest.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/test/java/fr/takima/training/sampleapplication/unit/StudentsServiceTest.java
+=======
+/Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/backend-api/src/test/java/com/example/backend_api/BackendApiApplicationTests.java
+>>>>>>> 59790f67e6aa8599077d9d9ac0e1da4a8b778ff8

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fr/takima/training/simpleapi/dao/StudentDAO.class
 fr/takima/training/simpleapi/entity/Student.class
 fr/takima/training/simpleapi/SimpleApiApplication.class
@@ -12,3 +13,8 @@ fr/takima/training/simpleapi/controller/DepartmentController.class
 fr/takima/training/simpleapi/controller/GreetingController$Greeting.class
 fr/takima/training/simpleapi/controller/StudentController.class
 fr/takima/training/simpleapi/entity/Department$Builder.class
+=======
+com/example/backend_api/BackendApiApplication.class
+fr/takima/training/simpleapi/controller/GreetingController.class
+fr/takima/training/simpleapi/controller/GreetingController$Greeting.class
+>>>>>>> 59790f67e6aa8599077d9d9ac0e1da4a8b778ff8

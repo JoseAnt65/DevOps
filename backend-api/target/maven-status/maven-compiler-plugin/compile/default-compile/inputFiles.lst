@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/HelloController.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/SimpleApiApplication.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/controller/DepartmentController.java
@@ -9,3 +10,7 @@
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/entity/Student.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/service/DepartmentService.java
 /Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/src/main/java/fr/takima/training/simpleapi/service/StudentService.java
+=======
+/Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/backend-api/src/main/java/com/example/backend_api/BackendApiApplication.java
+/Users/Jochy/Documents/Educación/EPF Engineering School/DevOps/Session 1 - Docker/backend-api/backend-api/src/main/java/com/example/backend_api/GreetingController.java
+>>>>>>> 59790f67e6aa8599077d9d9ac0e1da4a8b778ff8

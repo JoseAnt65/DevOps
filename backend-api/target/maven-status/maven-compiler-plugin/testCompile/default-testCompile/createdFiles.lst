@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 fr/takima/training/sampleapplication/IT/DepartmentControllerTestIT.class
 fr/takima/training/sampleapplication/unit/StudentsServiceTest.class
 fr/takima/training/sampleapplication/IT/StudentControllerTestIT.class
 fr/takima/training/sampleapplication/unit/DepartmentsServiceTest.class
+=======
+com/example/backend_api/BackendApiApplicationTests.class
+>>>>>>> 59790f67e6aa8599077d9d9ac0e1da4a8b778ff8
