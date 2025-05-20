@@ -1,0 +1,23 @@
+services:
+  simple-api-backend:
+    build: ./backend-api
+    ports:
+      - "8081:8080"
+    networks:
+      - app-network
+
+  reverse-proxy:
+    image: httpd:2.4
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./simple-http-server/config/my-proxy.conf:/usr/local/apache2/conf/extra/httpd-my-proxy.conf
+    command: >
+      sh -c "echo 'Include conf/extra/httpd-my-proxy.conf' >> /usr/local/apache2/conf/httpd.conf && httpd-foreground"
+    depends_on:
+      - simple-api-backend
+    networks:
+      - app-network
+
+networks:
+  app-network:
